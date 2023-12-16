@@ -1,0 +1,12 @@
+res://prova.res
+res://default_env.tres
+res://scripts/components/BuildingComponent.cs
+res://scripts/snippets/ExportStructures.cs
+res://Script/AnimationComponent.cs
+res://Script/CameraComponent.cs
+res://Script/InputComponent.cs
+res://Script/Main.cs
+res://Script/MovementComponent.cs
+res://Script/Player.cs
+res://Script/resources/StructureSize.cs
+res://Scenes/player.tscn
